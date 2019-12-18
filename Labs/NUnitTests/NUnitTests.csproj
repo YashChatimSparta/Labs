@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="nunit" Version="3.12.0" />
+    <PackageReference Include="NUnit.ConsoleRunner" Version="3.10.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.13.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lab_07_TDD_Collections\Lab_07_TDD_Collections.csproj" />
+    <ProjectReference Include="..\Lab_09_Rabbit_Test\Lab_09_Rabbit_Test.csproj" />
+    <ProjectReference Include="..\Lab_14_LINQ\Lab_14_LINQ.csproj" />
+    <ProjectReference Include="..\Lab_20_Northwind_Products\Lab_20_Northwind_Products.csproj" />
+    <ProjectReference Include="..\Lab_28_Fibonacci\Lab_28_Fibonacci.csproj" />
+    <ProjectReference Include="..\Lab_29_SimsonsRule\Lab_29_SimsonsRule.csproj" />
+  </ItemGroup>
+
+</Project>

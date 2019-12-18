@@ -1,0 +1,11 @@
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_01\bin\Debug\netcoreapp3.0\Lab_01_OOP_Mammals.exe
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_01\bin\Debug\netcoreapp3.0\Lab_01_OOP_Mammals.deps.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_01\bin\Debug\netcoreapp3.0\Lab_01_OOP_Mammals.runtimeconfig.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_01\bin\Debug\netcoreapp3.0\Lab_01_OOP_Mammals.runtimeconfig.dev.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_01\bin\Debug\netcoreapp3.0\Lab_01_OOP_Mammals.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_01\bin\Debug\netcoreapp3.0\Lab_01_OOP_Mammals.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_01\obj\Debug\netcoreapp3.0\Lab_01_OOP_Mammals.AssemblyInfoInputs.cache
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_01\obj\Debug\netcoreapp3.0\Lab_01_OOP_Mammals.AssemblyInfo.cs
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_01\obj\Debug\netcoreapp3.0\Lab_01_OOP_Mammals.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_01\obj\Debug\netcoreapp3.0\Lab_01_OOP_Mammals.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_01\obj\Debug\netcoreapp3.0\Lab_01_OOP_Mammals.csprojAssemblyReference.cache

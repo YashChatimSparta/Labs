@@ -1,0 +1,11 @@
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_15_Tasks\bin\Debug\netcoreapp3.0\Lab_15_Tasks.exe
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_15_Tasks\bin\Debug\netcoreapp3.0\Lab_15_Tasks.deps.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_15_Tasks\bin\Debug\netcoreapp3.0\Lab_15_Tasks.runtimeconfig.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_15_Tasks\bin\Debug\netcoreapp3.0\Lab_15_Tasks.runtimeconfig.dev.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_15_Tasks\bin\Debug\netcoreapp3.0\Lab_15_Tasks.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_15_Tasks\bin\Debug\netcoreapp3.0\Lab_15_Tasks.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_15_Tasks\obj\Debug\netcoreapp3.0\Lab_15_Tasks.AssemblyInfoInputs.cache
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_15_Tasks\obj\Debug\netcoreapp3.0\Lab_15_Tasks.AssemblyInfo.cs
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_15_Tasks\obj\Debug\netcoreapp3.0\Lab_15_Tasks.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_15_Tasks\obj\Debug\netcoreapp3.0\Lab_15_Tasks.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_15_Tasks\obj\Debug\netcoreapp3.0\Lab_15_Tasks.csprojAssemblyReference.cache

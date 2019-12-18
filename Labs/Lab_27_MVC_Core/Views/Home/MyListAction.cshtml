@@ -1,0 +1,25 @@
+﻿@model List<String>
+
+@{
+    ViewData["Title"] = "MyListAction";
+}
+
+<h2>Getting data from ViewBag</h2>
+
+<ul>
+    @foreach (var item in ViewBag.MyList)
+    {
+        <li>@item</li>
+    }
+</ul>
+
+<h2>List of Strings</h2>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item</li>
+    }
+</ul>
+
+

@@ -1,0 +1,13 @@
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_23_Serialize_JSON\bin\Debug\netcoreapp3.0\Lab_23_Serialize_JSON.exe
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_23_Serialize_JSON\obj\Debug\netcoreapp3.0\Lab_23_Serialize_JSON.AssemblyInfoInputs.cache
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_23_Serialize_JSON\obj\Debug\netcoreapp3.0\Lab_23_Serialize_JSON.AssemblyInfo.cs
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_23_Serialize_JSON\bin\Debug\netcoreapp3.0\Lab_23_Serialize_JSON.deps.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_23_Serialize_JSON\bin\Debug\netcoreapp3.0\Lab_23_Serialize_JSON.runtimeconfig.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_23_Serialize_JSON\bin\Debug\netcoreapp3.0\Lab_23_Serialize_JSON.runtimeconfig.dev.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_23_Serialize_JSON\bin\Debug\netcoreapp3.0\Lab_23_Serialize_JSON.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_23_Serialize_JSON\bin\Debug\netcoreapp3.0\Lab_23_Serialize_JSON.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_23_Serialize_JSON\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_23_Serialize_JSON\obj\Debug\netcoreapp3.0\Lab_23_Serialize_JSON.csproj.CopyComplete
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_23_Serialize_JSON\obj\Debug\netcoreapp3.0\Lab_23_Serialize_JSON.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_23_Serialize_JSON\obj\Debug\netcoreapp3.0\Lab_23_Serialize_JSON.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_23_Serialize_JSON\obj\Debug\netcoreapp3.0\Lab_23_Serialize_JSON.csprojAssemblyReference.cache

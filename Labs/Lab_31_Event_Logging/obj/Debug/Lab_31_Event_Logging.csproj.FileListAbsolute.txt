@@ -1,0 +1,5 @@
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_31_Event_Logging\bin\Debug\Lab_31_Event_Logging.exe.config
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_31_Event_Logging\bin\Debug\Lab_31_Event_Logging.exe
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_31_Event_Logging\bin\Debug\Lab_31_Event_Logging.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_31_Event_Logging\obj\Debug\Lab_31_Event_Logging.exe
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_31_Event_Logging\obj\Debug\Lab_31_Event_Logging.pdb

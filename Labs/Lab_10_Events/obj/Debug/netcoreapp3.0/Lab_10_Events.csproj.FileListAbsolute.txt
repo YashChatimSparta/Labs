@@ -1,0 +1,11 @@
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_10_Events\bin\Debug\netcoreapp3.0\Lab_10_Events.exe
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_10_Events\bin\Debug\netcoreapp3.0\Lab_10_Events.deps.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_10_Events\bin\Debug\netcoreapp3.0\Lab_10_Events.runtimeconfig.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_10_Events\bin\Debug\netcoreapp3.0\Lab_10_Events.runtimeconfig.dev.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_10_Events\bin\Debug\netcoreapp3.0\Lab_10_Events.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_10_Events\bin\Debug\netcoreapp3.0\Lab_10_Events.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_10_Events\obj\Debug\netcoreapp3.0\Lab_10_Events.AssemblyInfoInputs.cache
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_10_Events\obj\Debug\netcoreapp3.0\Lab_10_Events.AssemblyInfo.cs
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_10_Events\obj\Debug\netcoreapp3.0\Lab_10_Events.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_10_Events\obj\Debug\netcoreapp3.0\Lab_10_Events.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_10_Events\obj\Debug\netcoreapp3.0\Lab_10_Events.csprojAssemblyReference.cache

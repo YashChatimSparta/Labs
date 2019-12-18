@@ -1,0 +1,11 @@
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab02\bin\Debug\netcoreapp3.0\Lab_02_Practise.exe
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab02\bin\Debug\netcoreapp3.0\Lab_02_Practise.deps.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab02\bin\Debug\netcoreapp3.0\Lab_02_Practise.runtimeconfig.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab02\bin\Debug\netcoreapp3.0\Lab_02_Practise.runtimeconfig.dev.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab02\bin\Debug\netcoreapp3.0\Lab_02_Practise.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab02\bin\Debug\netcoreapp3.0\Lab_02_Practise.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab02\obj\Debug\netcoreapp3.0\Lab_02_Practise.AssemblyInfoInputs.cache
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab02\obj\Debug\netcoreapp3.0\Lab_02_Practise.AssemblyInfo.cs
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab02\obj\Debug\netcoreapp3.0\Lab_02_Practise.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab02\obj\Debug\netcoreapp3.0\Lab_02_Practise.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab02\obj\Debug\netcoreapp3.0\Lab_02_Practise.csprojAssemblyReference.cache

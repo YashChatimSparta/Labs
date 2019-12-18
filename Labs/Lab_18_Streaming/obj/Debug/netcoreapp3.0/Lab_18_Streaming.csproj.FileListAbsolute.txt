@@ -1,0 +1,11 @@
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_18_Streaming\bin\Debug\netcoreapp3.0\Lab_18_Streaming.exe
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_18_Streaming\bin\Debug\netcoreapp3.0\Lab_18_Streaming.deps.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_18_Streaming\bin\Debug\netcoreapp3.0\Lab_18_Streaming.runtimeconfig.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_18_Streaming\bin\Debug\netcoreapp3.0\Lab_18_Streaming.runtimeconfig.dev.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_18_Streaming\bin\Debug\netcoreapp3.0\Lab_18_Streaming.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_18_Streaming\bin\Debug\netcoreapp3.0\Lab_18_Streaming.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_18_Streaming\obj\Debug\netcoreapp3.0\Lab_18_Streaming.AssemblyInfoInputs.cache
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_18_Streaming\obj\Debug\netcoreapp3.0\Lab_18_Streaming.AssemblyInfo.cs
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_18_Streaming\obj\Debug\netcoreapp3.0\Lab_18_Streaming.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_18_Streaming\obj\Debug\netcoreapp3.0\Lab_18_Streaming.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_18_Streaming\obj\Debug\netcoreapp3.0\Lab_18_Streaming.csprojAssemblyReference.cache

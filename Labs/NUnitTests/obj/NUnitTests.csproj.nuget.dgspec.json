@@ -1,0 +1,472 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\NUnitTests\\NUnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_07_TDD_Collections\\Lab_07_TDD_Collections.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_07_TDD_Collections\\Lab_07_TDD_Collections.csproj",
+        "projectName": "Lab_07_TDD_Collections",
+        "projectPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_07_TDD_Collections\\Lab_07_TDD_Collections.csproj",
+        "packagesPath": "C:\\Users\\Yash Chatim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_07_TDD_Collections\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "\\\\sg-fp01\\Folder Redirections\\Yash Chatim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Yash Chatim\\AppData\\Local\\Esri\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_09_Rabbit_Test\\Lab_09_Rabbit_Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_09_Rabbit_Test\\Lab_09_Rabbit_Test.csproj",
+        "projectName": "Lab_09_Rabbit_Test",
+        "projectPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_09_Rabbit_Test\\Lab_09_Rabbit_Test.csproj",
+        "packagesPath": "C:\\Users\\Yash Chatim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_09_Rabbit_Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "\\\\sg-fp01\\Folder Redirections\\Yash Chatim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Yash Chatim\\AppData\\Local\\Esri\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_14_LINQ\\Lab_14_LINQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_14_LINQ\\Lab_14_LINQ.csproj",
+        "projectName": "Lab_14_LINQ",
+        "projectPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_14_LINQ\\Lab_14_LINQ.csproj",
+        "packagesPath": "C:\\Users\\Yash Chatim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_14_LINQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "\\\\sg-fp01\\Folder Redirections\\Yash Chatim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Yash Chatim\\AppData\\Local\\Esri\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "microsoft.entityframeworkcore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "microsoft.entityframeworkcore.design": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "microsoft.entityframeworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_20_Northwind_Products\\Lab_20_Northwind_Products.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_20_Northwind_Products\\Lab_20_Northwind_Products.csproj",
+        "projectName": "Lab_20_Northwind_Products",
+        "projectPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_20_Northwind_Products\\Lab_20_Northwind_Products.csproj",
+        "packagesPath": "C:\\Users\\Yash Chatim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_20_Northwind_Products\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "\\\\sg-fp01\\Folder Redirections\\Yash Chatim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Yash Chatim\\AppData\\Local\\Esri\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "microsoft.entityframeworkcore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "microsoft.entityframeworkcore.design": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "microsoft.entityframeworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_28_Fibonacci\\Lab_28_Fibonacci.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_28_Fibonacci\\Lab_28_Fibonacci.csproj",
+        "projectName": "Lab_28_Fibonacci",
+        "projectPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_28_Fibonacci\\Lab_28_Fibonacci.csproj",
+        "packagesPath": "C:\\Users\\Yash Chatim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_28_Fibonacci\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "\\\\sg-fp01\\Folder Redirections\\Yash Chatim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Yash Chatim\\AppData\\Local\\Esri\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_29_SimsonsRule\\Lab_29_SimsonsRule.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_29_SimsonsRule\\Lab_29_SimsonsRule.csproj",
+        "projectName": "Lab_29_SimsonsRule",
+        "projectPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_29_SimsonsRule\\Lab_29_SimsonsRule.csproj",
+        "packagesPath": "C:\\Users\\Yash Chatim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_29_SimsonsRule\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "\\\\sg-fp01\\Folder Redirections\\Yash Chatim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Yash Chatim\\AppData\\Local\\Esri\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\NUnitTests\\NUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\NUnitTests\\NUnitTests.csproj",
+        "projectName": "NUnitTests",
+        "projectPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\NUnitTests\\NUnitTests.csproj",
+        "packagesPath": "C:\\Users\\Yash Chatim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\NUnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "\\\\sg-fp01\\Folder Redirections\\Yash Chatim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Yash Chatim\\AppData\\Local\\Esri\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_07_TDD_Collections\\Lab_07_TDD_Collections.csproj": {
+                "projectPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_07_TDD_Collections\\Lab_07_TDD_Collections.csproj"
+              },
+              "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_09_Rabbit_Test\\Lab_09_Rabbit_Test.csproj": {
+                "projectPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_09_Rabbit_Test\\Lab_09_Rabbit_Test.csproj"
+              },
+              "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_14_LINQ\\Lab_14_LINQ.csproj": {
+                "projectPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_14_LINQ\\Lab_14_LINQ.csproj"
+              },
+              "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_20_Northwind_Products\\Lab_20_Northwind_Products.csproj": {
+                "projectPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_20_Northwind_Products\\Lab_20_Northwind_Products.csproj"
+              },
+              "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_28_Fibonacci\\Lab_28_Fibonacci.csproj": {
+                "projectPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_28_Fibonacci\\Lab_28_Fibonacci.csproj"
+              },
+              "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_29_SimsonsRule\\Lab_29_SimsonsRule.csproj": {
+                "projectPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_29_SimsonsRule\\Lab_29_SimsonsRule.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

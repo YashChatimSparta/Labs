@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "SoapFormatter/1.0.11": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SoapFormatter.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SoapFormatter.dll": {}
+        }
+      },
+      "Lab_22_Serialization/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "SoapFormatter": "1.0.11"
+        },
+        "compile": {
+          "bin/placeholder/Lab_22_Serialization.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab_22_Serialization.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoapFormatter/1.0.11": {
+      "sha512": "zE2HkP26lkOcXvEVasjcQT7f4lZWPF+ThBLRLLWQaBz5Kabyr0rQUyBM0BSw7g6JddEqSK/BzhpVitJ0vAu4XA==",
+      "type": "package",
+      "path": "soapformatter/1.0.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SoapFormatter.dll",
+        "soapformatter.1.0.11.nupkg.sha512",
+        "soapformatter.nuspec"
+      ]
+    },
+    "Lab_22_Serialization/1.0.0": {
+      "type": "project",
+      "path": "../Lab_22_Serialization/Lab_22_Serialization.csproj",
+      "msbuildProject": "../Lab_22_Serialization/Lab_22_Serialization.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Lab_22_Serialization >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Yash Chatim\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_24_Serialize_Binary\\Lab_24_Serialize_Binary.csproj",
+      "projectName": "Lab_24_Serialize_Binary",
+      "projectPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_24_Serialize_Binary\\Lab_24_Serialize_Binary.csproj",
+      "packagesPath": "C:\\Users\\Yash Chatim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_24_Serialize_Binary\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "\\\\sg-fp01\\Folder Redirections\\Yash Chatim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\Yash Chatim\\AppData\\Local\\Esri\\NuGet": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_22_Serialization\\Lab_22_Serialization.csproj": {
+              "projectPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\Lab_22_Serialization\\Lab_22_Serialization.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

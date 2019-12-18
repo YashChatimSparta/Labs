@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\API_Finally\\API_Finally.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\API_Finally\\API_Finally.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\API_Finally\\API_Finally.csproj",
+        "projectName": "API_Finally",
+        "projectPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\API_Finally\\API_Finally.csproj",
+        "packagesPath": "C:\\Users\\Yash Chatim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yash Chatim\\Engineering45\\Labs\\Labs\\API_Finally\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "\\\\sg-fp01\\Folder Redirections\\Yash Chatim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Yash Chatim\\AppData\\Local\\Esri\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Esri.ArcGISRuntime": {
+              "target": "Package",
+              "version": "[100.6.0, )"
+            },
+            "Esri.ArcGISRuntime.WPF": {
+              "target": "Package",
+              "version": "[100.6.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "MyAction";
+}
+
+<h2>MyAction</h2>
+
+
+<p>Some received data from backend is @ViewBag.MyItem and also @ViewData["AnotherItem"]</p>
+
+<ul>
+    @for (int i = 0; i < 5; i++)
+    {
+        <li>Your item is @i</li>
+    }
+</ul>
+
+
+
+

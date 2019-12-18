@@ -1,0 +1,11 @@
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_29_SimsonsRule\bin\Debug\netcoreapp3.0\Lab_29_SimsonsRule.exe
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_29_SimsonsRule\bin\Debug\netcoreapp3.0\Lab_29_SimsonsRule.deps.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_29_SimsonsRule\bin\Debug\netcoreapp3.0\Lab_29_SimsonsRule.runtimeconfig.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_29_SimsonsRule\bin\Debug\netcoreapp3.0\Lab_29_SimsonsRule.runtimeconfig.dev.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_29_SimsonsRule\bin\Debug\netcoreapp3.0\Lab_29_SimsonsRule.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_29_SimsonsRule\bin\Debug\netcoreapp3.0\Lab_29_SimsonsRule.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_29_SimsonsRule\obj\Debug\netcoreapp3.0\Lab_29_SimsonsRule.AssemblyInfoInputs.cache
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_29_SimsonsRule\obj\Debug\netcoreapp3.0\Lab_29_SimsonsRule.AssemblyInfo.cs
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_29_SimsonsRule\obj\Debug\netcoreapp3.0\Lab_29_SimsonsRule.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_29_SimsonsRule\obj\Debug\netcoreapp3.0\Lab_29_SimsonsRule.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_29_SimsonsRule\obj\Debug\netcoreapp3.0\Lab_29_SimsonsRule.csprojAssemblyReference.cache

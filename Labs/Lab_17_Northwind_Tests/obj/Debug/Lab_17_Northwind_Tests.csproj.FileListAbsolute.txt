@@ -1,0 +1,11 @@
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_17_Northwind_Tests\bin\Debug\Lab_17_Northwind_Tests.exe.config
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_17_Northwind_Tests\bin\Debug\Lab_17_Northwind_Tests.exe
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_17_Northwind_Tests\bin\Debug\Lab_17_Northwind_Tests.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_17_Northwind_Tests\bin\Debug\EntityFramework.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_17_Northwind_Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_17_Northwind_Tests\bin\Debug\EntityFramework.xml
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_17_Northwind_Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_17_Northwind_Tests\obj\Debug\Lab_17_Northwind_Tests.csprojAssemblyReference.cache
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_17_Northwind_Tests\obj\Debug\Lab_17_Northwind_Tests.csproj.CopyComplete
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_17_Northwind_Tests\obj\Debug\Lab_17_Northwind_Tests.exe
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_17_Northwind_Tests\obj\Debug\Lab_17_Northwind_Tests.pdb

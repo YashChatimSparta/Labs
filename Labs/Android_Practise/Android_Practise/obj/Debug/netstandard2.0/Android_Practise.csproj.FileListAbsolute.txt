@@ -1,0 +1,14 @@
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Android_Practise\Android_Practise\bin\Debug\netstandard2.0\Android_Practise.deps.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Android_Practise\Android_Practise\bin\Debug\netstandard2.0\Android_Practise.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Android_Practise\Android_Practise\bin\Debug\netstandard2.0\ref\Android_Practise.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Android_Practise\Android_Practise\bin\Debug\netstandard2.0\Android_Practise.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Android_Practise\Android_Practise\obj\Debug\netstandard2.0\Android_Practise.csprojAssemblyReference.cache
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Android_Practise\Android_Practise\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Android_Practise\Android_Practise\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Android_Practise\Android_Practise\obj\Debug\netstandard2.0\Android_Practise.AssemblyInfoInputs.cache
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Android_Practise\Android_Practise\obj\Debug\netstandard2.0\Android_Practise.AssemblyInfo.cs
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Android_Practise\Android_Practise\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Android_Practise\Android_Practise\obj\Debug\netstandard2.0\Android_Practise.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Android_Practise\Android_Practise\obj\Debug\netstandard2.0\ref\Android_Practise.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Android_Practise\Android_Practise\obj\Debug\netstandard2.0\Android_Practise.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Android_Practise\Android_Practise\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs

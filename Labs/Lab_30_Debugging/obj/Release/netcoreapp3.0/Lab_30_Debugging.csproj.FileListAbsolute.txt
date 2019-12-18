@@ -1,0 +1,10 @@
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_30_Debugging\bin\Release\netcoreapp3.0\Lab_30_Debugging.exe
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_30_Debugging\bin\Release\netcoreapp3.0\Lab_30_Debugging.deps.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_30_Debugging\bin\Release\netcoreapp3.0\Lab_30_Debugging.runtimeconfig.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_30_Debugging\bin\Release\netcoreapp3.0\Lab_30_Debugging.runtimeconfig.dev.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_30_Debugging\bin\Release\netcoreapp3.0\Lab_30_Debugging.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_30_Debugging\bin\Release\netcoreapp3.0\Lab_30_Debugging.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_30_Debugging\obj\Release\netcoreapp3.0\Lab_30_Debugging.AssemblyInfoInputs.cache
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_30_Debugging\obj\Release\netcoreapp3.0\Lab_30_Debugging.AssemblyInfo.cs
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_30_Debugging\obj\Release\netcoreapp3.0\Lab_30_Debugging.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_30_Debugging\obj\Release\netcoreapp3.0\Lab_30_Debugging.pdb

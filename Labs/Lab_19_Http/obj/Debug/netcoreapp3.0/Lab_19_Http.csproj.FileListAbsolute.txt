@@ -1,0 +1,11 @@
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_19_Http\bin\Debug\netcoreapp3.0\Lab_19_Http.exe
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_19_Http\bin\Debug\netcoreapp3.0\Lab_19_Http.deps.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_19_Http\bin\Debug\netcoreapp3.0\Lab_19_Http.runtimeconfig.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_19_Http\bin\Debug\netcoreapp3.0\Lab_19_Http.runtimeconfig.dev.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_19_Http\bin\Debug\netcoreapp3.0\Lab_19_Http.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_19_Http\bin\Debug\netcoreapp3.0\Lab_19_Http.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_19_Http\obj\Debug\netcoreapp3.0\Lab_19_Http.AssemblyInfoInputs.cache
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_19_Http\obj\Debug\netcoreapp3.0\Lab_19_Http.AssemblyInfo.cs
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_19_Http\obj\Debug\netcoreapp3.0\Lab_19_Http.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_19_Http\obj\Debug\netcoreapp3.0\Lab_19_Http.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_19_Http\obj\Debug\netcoreapp3.0\Lab_19_Http.csprojAssemblyReference.cache

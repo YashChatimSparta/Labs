@@ -1,0 +1,10 @@
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_11_Delegates\bin\Debug\netcoreapp3.0\Lab_11_Delegates.exe
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_11_Delegates\bin\Debug\netcoreapp3.0\Lab_11_Delegates.deps.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_11_Delegates\bin\Debug\netcoreapp3.0\Lab_11_Delegates.runtimeconfig.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_11_Delegates\bin\Debug\netcoreapp3.0\Lab_11_Delegates.runtimeconfig.dev.json
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_11_Delegates\bin\Debug\netcoreapp3.0\Lab_11_Delegates.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_11_Delegates\bin\Debug\netcoreapp3.0\Lab_11_Delegates.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_11_Delegates\obj\Debug\netcoreapp3.0\Lab_11_Delegates.AssemblyInfoInputs.cache
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_11_Delegates\obj\Debug\netcoreapp3.0\Lab_11_Delegates.AssemblyInfo.cs
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_11_Delegates\obj\Debug\netcoreapp3.0\Lab_11_Delegates.dll
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_11_Delegates\obj\Debug\netcoreapp3.0\Lab_11_Delegates.pdb
