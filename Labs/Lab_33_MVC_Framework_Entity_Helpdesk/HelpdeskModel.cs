@@ -9,7 +9,8 @@ namespace Lab_33_MVC_Framework_Entity_Helpdesk
     {
 
         public HelpdeskModel()
-            : base("name=AzureHelpdeskModel")
+            : base("name=AzureHelpdeskModel") // azure
+            // : base("name=HelpdeskModel")
         {
         }
 

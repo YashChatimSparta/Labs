@@ -48,7 +48,7 @@ namespace Lab_33_MVC_Framework_Entity_Helpdesk.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "UserID,UserName,CategoryID")] User user)
+        public ActionResult Create([Bind(Include = "UserID,UserName,UserAddress,CategoryID,NewField")] User user)
         {
             if (ModelState.IsValid)
             {
@@ -82,7 +82,7 @@ namespace Lab_33_MVC_Framework_Entity_Helpdesk.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "UserID,UserName,CategoryID")] User user)
+        public ActionResult Edit([Bind(Include = "UserID,UserName,UserAddress,CategoryID,NewField")] User user)
         {
             if (ModelState.IsValid)
             {

@@ -77,3 +77,6 @@ C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_33_MVC_Framework_Entity_Helpdes
 C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_33_MVC_Framework_Entity_Helpdesk\obj\Release\Lab_33_MVC_Framework_Entity_Helpdesk.csproj.CopyComplete
 C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_33_MVC_Framework_Entity_Helpdesk\obj\Release\Lab_33_MVC_Framework_Entity_Helpdesk.dll
 C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_33_MVC_Framework_Entity_Helpdesk\obj\Release\Lab_33_MVC_Framework_Entity_Helpdesk.pdb
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_33_MVC_Framework_Entity_Helpdesk\obj\Release\Lab_33_MVC_Framework_Entity_Helpdesk.Migrations.AddUserAddress.resources
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_33_MVC_Framework_Entity_Helpdesk\obj\Release\Lab_33_MVC_Framework_Entity_Helpdesk.csproj.GenerateResource.cache
+C:\Users\Yash Chatim\Engineering45\Labs\Labs\Lab_33_MVC_Framework_Entity_Helpdesk\obj\Release\Lab_33_MVC_Framework_Entity_Helpdesk.Migrations.AddNewField.resources

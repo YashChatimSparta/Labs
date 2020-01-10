@@ -136,6 +136,15 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="HelpdeskModel.cs" />
+    <Compile Include="Migrations\201912182039192_AddUserAddress.cs" />
+    <Compile Include="Migrations\201912182039192_AddUserAddress.Designer.cs">
+      <DependentUpon>201912182039192_AddUserAddress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912191048468_AddNewField.cs" />
+    <Compile Include="Migrations\201912191048468_AddNewField.Designer.cs">
+      <DependentUpon>201912191048468_AddNewField.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="User.cs" />
   </ItemGroup>
@@ -203,6 +212,14 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.3.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201912182039192_AddUserAddress.resx">
+      <DependentUpon>201912182039192_AddUserAddress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912191048468_AddNewField.resx">
+      <DependentUpon>201912191048468_AddNewField.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

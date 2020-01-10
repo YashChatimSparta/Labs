@@ -98,6 +98,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Android_Practise", "Android
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_33_MVC_Framework_Entity_Helpdesk", "Lab_33_MVC_Framework_Entity_Helpdesk\Lab_33_MVC_Framework_Entity_Helpdesk.csproj", "{808C034A-3052-4162-B893-A0F12BAF39AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_34_Gym_Database", "Lab_34_Gym_Database\Lab_34_Gym_Database.csproj", "{90CCA3B0-9721-4B4E-A935-D031E881F11C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_34_Gym_Website_MVC_Core", "Lab_34_Gym_Website_MVC_Core\Lab_34_Gym_Website_MVC_Core.csproj", "{421996F0-C739-4CF2-B76C-665EE2E04522}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -258,6 +262,14 @@ Global
 		{808C034A-3052-4162-B893-A0F12BAF39AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{808C034A-3052-4162-B893-A0F12BAF39AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{808C034A-3052-4162-B893-A0F12BAF39AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90CCA3B0-9721-4B4E-A935-D031E881F11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90CCA3B0-9721-4B4E-A935-D031E881F11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90CCA3B0-9721-4B4E-A935-D031E881F11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90CCA3B0-9721-4B4E-A935-D031E881F11C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421996F0-C739-4CF2-B76C-665EE2E04522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421996F0-C739-4CF2-B76C-665EE2E04522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421996F0-C739-4CF2-B76C-665EE2E04522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421996F0-C739-4CF2-B76C-665EE2E04522}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

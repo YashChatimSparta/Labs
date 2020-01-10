@@ -13,7 +13,12 @@ namespace Lab_33_MVC_Framework_Entity_Helpdesk
         [StringLength(50)]
         public string UserName { get; set; }
 
+        [StringLength(100)]
+        public string UserAddress { get; set; }
+
         public int? CategoryID { get; set; }
+
+        public string NewField { get; set; }
 
         public virtual Category Category { get; set; }
     }
